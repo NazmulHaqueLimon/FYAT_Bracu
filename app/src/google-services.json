@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1060972811266",
+    "firebase_url": "https://fyat-1ec90.firebaseio.com",
+    "project_id": "fyat-1ec90",
+    "storage_bucket": "fyat-1ec90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060972811266:android:1932990a2e5fdd87",
+        "android_client_info": {
+          "package_name": "com.example.hp.fyat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060972811266-amrc1qfqt7eipurvap0uhu2dbs7irfba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHZwKz4cqiKIRQ5xZcoUt1Rmo2dKV1oRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
